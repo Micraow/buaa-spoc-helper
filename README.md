@@ -43,7 +43,7 @@
 
 1.  Clone 本仓库到本地：
     ```bash
-    git clone [https://github.com/你的用户名/你的仓库名.git](https://github.com/你的用户名/你的仓库名.git)
+    git clone https://github.com/你的用户名/你的仓库名.git
     ```
 2.  在 Chrome 中开启 Tampermonkey 的 "允许访问文件网址" 权限。
 3.  新建一个油猴脚本，通过 `@require` 引入本地文件进行调试：
